@@ -1,2 +1,1 @@
-# WebProject
-Assignmentt for school
+# INFO2180 - Project 2 - The Fifteen Puzzle
